@@ -1,3 +1,8 @@
+# Background
+
+I wanted to create a mortgage calculator app that was more robust than the ones currently available.
+This is a first take at that. It's not finished but something I'll pick up in the future.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
